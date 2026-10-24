@@ -1,2 +1,5 @@
-git@github.com:Yonatanli1/HW0.git
+My details:
+Name: Yonatan Lifshitz
+TAU username: Yonatanli1
+SSH adress used: git@github.com:Yonatanli1/HW0.git
 
